@@ -111,7 +111,8 @@ OUTPUT:
 
 
 RESULT:
-Thus,the simulation and synthesis of finite state machine by using vivado has been successfully excecuted and verified.
+
+  Thus,the simulation and synthesis of finite state machine by using vivado has been successfully excecuted and verified.
 
 
 
